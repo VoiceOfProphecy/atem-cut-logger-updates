@@ -1,0 +1,12 @@
+{
+  "version": "1.7.0",
+  "published": "2026-09-02T21:20:11+00:00",
+  "notes": [
+    "Transition-aware logging",
+    "Macro buttons",
+    "The log table gained a Transition column, and the CSV two columns.",
+    "The bridge can be built without either feature (make EXTRAS=0) for SDKs"
+  ],
+  "zip": "builds/atem-cut-logger-1.7.0.zip",
+  "sha256": "a7c1d67e1f12fbf7671d856ea3fc0f5f4ab71518e7c8b0e822e6d7205998916b"
+}
