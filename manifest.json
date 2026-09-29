@@ -1,10 +1,13 @@
 {
-  "version": "1.8.0",
-  "published": "2026-09-02T21:33:59+00:00",
+  "version": "1.10.0",
+  "published": "2026-09-29T17:42:05+00:00",
   "notes": [
-    "Dissolves as real transitions in FCPXML",
-    "Transition reporting on Windows"
+    "Sections",
+    "Recorders",
+    "Format media from the app",
+    "Deck settings",
+    "Router"
   ],
-  "zip": "builds/atem-cut-logger-1.8.0.zip",
-  "sha256": "2940b49d6a58a14f58ee265da5ce26ea9320aa05af464ded1d92ec30887bf01d"
+  "zip": "builds/atem-cut-logger-1.10.0.zip",
+  "sha256": "ab70431bc8bc50c7281cd3760cf86080c730fc3b80c1e536270fca74bc8b090a"
 }
